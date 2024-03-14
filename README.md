@@ -6,6 +6,8 @@ Tugash vaqti: **17-mart, 16.00 da**
 
 [Figma(maket) link](https://www.figma.com/file/QMNosh3inDiY33pHZ1dTLi/Untitled?type=design&node-id=0-1&mode=design&t=L8VaLD6VHvtTIyYS-0)
 
+[Source code(boshlang'ich file va papkalar) link](https://github.com/BekzodIsakov/saralash-2)
+
 ## Talablar:
 
 1. Sass'dan foydalanish
